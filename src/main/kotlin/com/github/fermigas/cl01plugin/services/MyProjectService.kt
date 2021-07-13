@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.fermigas.cl01plugin.services
 
+import com.github.fermigas.cl01plugin.MyBundle
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
 
 class MyProjectService(project: Project) {
 
